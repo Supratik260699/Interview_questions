@@ -1,2 +1,2 @@
-# Interview_questions
-All types of interview question with solution are available
+# Codeforces_Problemset
+All Codeforces problemset question solutions are available
